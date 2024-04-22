@@ -11,4 +11,4 @@
 
 😄 Pronomes: Ela/Dela
 
-⚡ Curiosidade: Adoro explorar novas trilhas aos finais de semana!
+⚡ Curiosidade: Adoro aprender coisas novas!
