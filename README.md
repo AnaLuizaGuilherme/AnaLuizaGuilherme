@@ -5,7 +5,7 @@
 
 🌱 Atualmente, estou aprendendo sobre tecnologias inovadoras e práticas ágeis.
 
-💞️ Estou buscando colaborar em projetos que visam revolucionar os serviços municipais por meio da tecnologia.
+💞️ Estou buscando colaborar em projetos que visam revolucionar.
 
 📫 Você pode me contatar por e-mail em *analuizaguilher0@gmail.com*.
 
