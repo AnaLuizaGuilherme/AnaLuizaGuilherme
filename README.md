@@ -12,7 +12,7 @@ Between algorithms, coffee and side projects, I'm always learning, failing with 
 
 - **Frontend:** React Native, Expo, HTML/CSS, Tailwind  
 - **Backend:** Python (Flask), C, MySQL, SQLite  
-- **Design e UX / UI/UX:** Figma, Canva, Framer Motion  
+- **Design e UX | UI/UX:** Figma, Canva, Framer Motion  
 - **Dados e IA / Data & AI:** SQL, public APIs, route optimization algorithms  
 - **Outros / Others:** Git & GitHub, Notion, Trello, Google Workspace
 
