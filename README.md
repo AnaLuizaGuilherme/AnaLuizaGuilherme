@@ -1,5 +1,5 @@
 <!-- Cabeçalho -->
-<h1 align="center">👩🏽‍💻 Olá, eu sou a Ana Luiza Guilherme!</h1>
+<h1 align="center"> Olá, eu sou a Ana Luiza Guilherme!</h1>
 <h3 align="center">Hi there, I'm Ana Luiza Guilherme!</h3>
 
 ---
