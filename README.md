@@ -1,49 +1,75 @@
-## 👩🏽‍💻 Olá, eu sou a Ana Luiza Guilherme! / Hi there, I'm Ana Luiza Guilherme!
-
-🇧🇷 Sou estudante de Ciência da Computação, criadora do QuickMed 🏥, entusiasta de sistemas inteligentes e apaixonada por criar soluções que conectam tecnologia e impacto social. Já atuei com gestão de comunidade, cocriação de políticas públicas e desenvolvimento de apps mobile e web.  
-🇺🇸 I'm a Computer Science student, creator of QuickMed 🏥, passionate about intelligent systems and building tech solutions with social impact. I've worked with community management, public co-creation initiatives, and both mobile and web development.
-
-Entre algoritmos, cafés e projetos, sigo aprendendo, errando com estilo e construindo com propósito. ✨  
-Between algorithms, coffee and side projects, I'm always learning, failing with style, and building with purpose. ✨
+<!-- Cabeçalho -->
+<h1 align="center">👩🏽‍💻 Olá, eu sou a Ana Luiza Guilherme!</h1>
+<h3 align="center">Hi there, I'm Ana Luiza Guilherme!</h3>
 
 ---
 
-### 🚀 Tecnologias que uso e estudo / Tools I Use & Explore
+<table>
+  <tr>
+    <td width="60%" valign="top">
 
-- **Frontend:** React Native, Expo, HTML/CSS, Tailwind  
+### ❤ Sobre mim
+
+Sou estudante de **Ciência da Computação**, co-fundadora e CEO da **Luna Fleur**, empresa de soluções digitais com foco em desenvolvimento web, marketing e diagnósticos estratégicos.  
+Apaixonada por criar soluções que conectam **tecnologia, design e impacto social**, já atuei com gestão de comunidade, cocriação de políticas públicas e desenvolvimento fullstack.
+
+✨ Entre algoritmos, cafés e projetos, sigo aprendendo, errando com estilo e construindo com propósito.  
+
+---
+
+### 🚀 Minhas Tecnologias
+
+- **Frontend:** React Native, React, HTML, CSS, Tailwind  
 - **Backend:** Python (Flask), C, MySQL, SQLite  
-- **Design e UX | UI/UX:** Figma, Canva, Framer Motion  
-- **Dados e IA / Data & AI:** SQL, public APIs, route optimization algorithms  
-- **Outros / Others:** Git & GitHub, Notion, Trello, Google Workspace
+- **Design & UX:** Figma, Canva, Framer Motion  
+- **Gestão & Produtividade:** Notion, Trello, Google Workspace  
 
 ---
 
-### 💼 Projetos em Destaque / Featured Projects
+### 💼 Projetos em Destaque
 
-- 🔹 [Sistema de Gerenciamento de Assistência Técnica](https://github.com/AnaLuizaGuilherme/gerenciamento_assistencia): Sistema de Gerenciamento de Assistência Técnica em linguagem C.
-  Technical Assistance Management System in C language.
-- 🔹 [Logi-Mak](https://github.com/AnaLuizaGuilherme/MAK-Logi): Roteirização de Entregas com algoritmos de otimização e interface mobile.
-  Delivery Route Optimizer using mobile interface and algorithmic prioritization.
-- 🔹 [Inovação e Tecnologia/Gestão de Comunidade](https://www.linkedin.com/posts/ana-luiza-guilherme_inovaaexaetocaedvica-governoaberto-dadosabertos-activity-7337267440743018496-UTA3?utm_source=share&utm_medium=member_desktop&rcm=ACoAADWWH2kBCeavx_zFQ7zyOszRXdRjp_iahEU): Produção de vídeos e sites institucionais, produção de relatórios e facilitação de projetos cívicos com a Prefeitura de Mogi das Cruzes.
-  Production of institutional videos and websites, production of reports and facilitation of civic projects with the City of Mogi das Cruzes.
-  
+🔹 [**MakLogi**](https://github.com/AnaLuizaGuilherme/MAK-Logi)  
+🚚 Sistema de **otimização de rotas de entrega** com algoritmos inteligentes e interface mobile.  
+
+🔹 [**Luna Fleur**](https://lunafleur.com.br/)  
+Minha empresa, que desenvolve **soluções digitais personalizadas**:  
+- Criação de sites e sistemas personalizados  
+- Gestão estratégica de redes sociais  
+- Diagnósticos digitais e consultoria  
+
+🔹 [**Gestão de Comunidade / Inovação**](https://www.linkedin.com/posts/ana-luiza-guilherme_inovaaexaetocaedvica-governoaberto-dadosabertos-activity-7337267440743018496-UTA3)  
+📊 Produção de relatórios, vídeos institucionais e facilitação de projetos cívicos junto à Prefeitura de Mogi das Cruzes.  
 
 ---
 
-### 📊 Estatísticas / GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=analuizaguilherme&show_icons=true&theme=radical" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=analuizaguilherme&layout=compact&theme=dark&title_color=800000&text_color=ffffff&bg_color=0d1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=analuizaguilherme&show_icons=true&theme=dark&title_color=800000&icon_color=800000&text_color=ffffff&bg_color=0d1117" />
 </p>
 
 ---
 
-### ✉️ Vamos nos conectar? / Let's connect!
+### ✉️ Vamos nos conectar?
 
-- 📫 Email: analuizaguilher0@gmail.com  
-- 💼 LinkedIn: [Ana Luiza Guilherme](https://www.linkedin.com/in/ana-luiza-guilherme/)  
-- 📍 Baseada em Mogi, com o mundo como inspiração 🌎  
-   Based in Mogi, inspired by the world 🌍
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-luiza-guilherme/)  
+[![Email](https://img.shields.io/badge/Email-800000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:analuizaguilher0@gmail.com)
 
-_"Programo, escrevo, crio e colaboro — sempre com um pé na tecnologia e outro no coletivo."_ 🌱  
-_"I code, write, create and collaborate — always with one foot in tech and the other in the community."_ 🌱
+📍 **Baseada em Mogi, com o mundo como inspiração 🌍**
+
+---
+
+<i>"Programo, escrevo, crio e colaboro — sempre com um pé na tecnologia e outro no coletivo."</i> 🌱  
+
+</td>
+    <td width="40%" valign="top" align="center">
+
+![WhatsApp Image 2025-08-22 at 12 07 05](https://github.com/user-attachments/assets/e67ff4b2-0cd8-4bdd-b0ff-5ccd93bc8b6f)
+![WhatsApp Image 2025-08-22 at 12 09 51](https://github.com/user-attachments/assets/63807dcf-5499-4766-9787-31a47a862258)
+![a776be3a-466b-4c1a-95fe-f9ec33efd62a](https://github.com/user-attachments/assets/81548538-d88b-4e64-826e-7da41dc9b38e)
+
+
+</td>
+  </tr>
+</table>
