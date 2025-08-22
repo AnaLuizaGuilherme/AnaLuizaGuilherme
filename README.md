@@ -67,7 +67,8 @@ Minha empresa, que desenvolve **soluções digitais personalizadas**:
 
 ![WhatsApp Image 2025-08-22 at 12 07 05](https://github.com/user-attachments/assets/e67ff4b2-0cd8-4bdd-b0ff-5ccd93bc8b6f)
 ![WhatsApp Image 2025-08-22 at 12 09 51](https://github.com/user-attachments/assets/63807dcf-5499-4766-9787-31a47a862258)
-![a776be3a-466b-4c1a-95fe-f9ec33efd62a](https://github.com/user-attachments/assets/81548538-d88b-4e64-826e-7da41dc9b38e)
+![d687e985-11df-47e7-9c13-94491a8b6768](https://github.com/user-attachments/assets/b3f8632e-4492-4627-8609-3a3a634120ca)
+
 
 
 </td>
